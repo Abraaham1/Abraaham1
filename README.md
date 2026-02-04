@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Abdulrahman 👋
 
-<!--
-**Abraaham1/Abraaham1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Computer Science student at Punjab University  
+ Interested in AI/ML, Developement, Cybersecurity, and Robotics  
 
-Here are some ideas to get you started:
+## Skills
+- Python, C++, HTML/CSS/JS
+- NumPy, Pandas, Matplotlib, Seaborn, OpenCV, MediaPipe, TensorFlow, Keras, Pytorch
+- Django, Flask, React, NextJS
+- Git, GitHub, Linux
+- Arduino
+- n8n
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- RFID based automation systems
+- Oracle - based attendance report automation
+- Real time gesture controlled robotic hand
+- Job search automation using n8n
+- Employee hierarchy system (Flask)
+- Django - based form automation
+- Terminal based BitLocker utility
+
+## Goals
+- Master DSA & OOP
+- Build high-impact AI projects
+- Work at top tech companies
+
+## 📫 Contact
+- GitHub: github.com/Abraaham1
