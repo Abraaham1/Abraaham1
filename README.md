@@ -1,4 +1,4 @@
-# Hi, I'm Abdulrahman 👋
+# Hi, I'm Abdulrahman 
 
  Computer Science student at Punjab University  
  Interested in AI/ML, Developement, Cybersecurity, and Robotics  
@@ -25,5 +25,5 @@
 - Build high-impact AI projects
 - Work at top tech companies
 
-## 📫 Contact
+##  Contact
 - GitHub: github.com/Abraaham1
