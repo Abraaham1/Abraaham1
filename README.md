@@ -9,7 +9,7 @@
 - Django, Flask, React, NextJS
 - Git, GitHub, Linux
 - Arduino
-- n8n
+- n8n 
 
 ## Projects
 - RFID based automation systems
